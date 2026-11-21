@@ -25,7 +25,6 @@ class Bullet(Sprite):
         """Gülləni yuxarı doğru hərəkət etdirir."""
         self.y -= self.speed
         self.rect.y = int(self.y)
-
     def draw_bullet(self):
         """Gülləni ekranda çəkir."""
         pygame.draw.rect(self.screen, self.color, self.rect)
