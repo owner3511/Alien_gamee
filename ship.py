@@ -1,6 +1,4 @@
 import pygame
-
-
 class Ship:
     """Oyunçu gəmisini idarə edən sinif."""
 
