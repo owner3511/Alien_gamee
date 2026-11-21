@@ -1,6 +1,4 @@
 import pygame
-
-
 class Scoreboard:
     """Xalı, ən yüksək xalı, vaxtı və oyun sonu ekranını idarə edən sinif."""
 
