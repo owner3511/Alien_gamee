@@ -1,8 +1,6 @@
 import math
 import random
 import pygame
-
-
 class SpaceBackground:
     """Arxa fonda ulduzlar, planetlər və meteorlardan ibarət canlı kosmos animasiyası."""
 
