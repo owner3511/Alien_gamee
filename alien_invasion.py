@@ -138,6 +138,4 @@ def run_game():
             sb.draw_game_over()
 
         pygame.display.flip()
-
-
 run_game()
