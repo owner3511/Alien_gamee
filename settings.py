@@ -1,6 +1,5 @@
 class Settings:
     """Oyunun bütün əsas parametrlərini saxlayan sinif."""
-
     def __init__(self):
         """Oyunun başlanğıc parametrlərini təyin edir."""
         # Ekran ölçüləri (en, hündürlük)
